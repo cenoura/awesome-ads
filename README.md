@@ -15,11 +15,13 @@ A curated list of awesome advertising content, resources and libraries.
   - [Acronyms and Abbreviations](#acronyms-and-abbreviations)
   - [Ad Managers / Ad Servers](#ad-managers--ad-servers)
   - [Google Ad Manager](#google-ad-manager)
+      - [React Libraries](#react-libraries)
   - [Facebook / Instagram](#facebook--instagram)
   - [Advertising](#advertising)
   - [Programmatic](#programmatic)
   - [Header Bidding](#header-bidding)
   - [Prebid](#prebid)
+      - [React Libraries](#react-libraries-1)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
@@ -67,6 +69,10 @@ A curated list of awesome advertising content, resources and libraries.
 - [Release notes (2019)](https://support.google.com/admanager/answer/9197913)
 - [Setup](https://support.google.com/admanager/topic/7505789)
 
+#### React Libraries
+
+- React DFP - [GitHub](https://github.com/jaanauati/react-dfp) | [Docs](http://react-dfp.ml/)
+
 ## Facebook / Instagram
 
 - [Facebook Blueprint](https://www.facebook.com/business/learn)
@@ -92,6 +98,10 @@ A curated list of awesome advertising content, resources and libraries.
 - [Prebid for Developers](http://prebid.org/developers.html)
 - [Smart Ad Server + Prebid.js](https://support.smartadserver.com/s/article/Holistic-Setup)
 - [Reddit](https://www.reddit.com/r/Prebid/)
+
+#### React Libraries
+
+- React Prebid - [GitHub](https://github.com/technology-ebay-de/react-prebid) | [Docs](https://github.com/technology-ebay-de/react-prebid/wiki)
 
 # Contributing
 
