@@ -37,7 +37,7 @@ A curated list of advertising and programmatic related content and resources to 
 
 ## Concepts and Fundamentals
 
-- [What does an Ad Server do and how can you benefit from it?](https://www.thinkwithgoogle.com/intl/en-145/perspectives/local-articles/what-does-ad-server-do-and-how-can-you-benefit-it/) - Explain what an Ad Server do and how it can benefit your business.
+- [What does an Ad Server does and how can you benefit from it?](https://www.thinkwithgoogle.com/intl/en-145/perspectives/local-articles/what-does-ad-server-do-and-how-can-you-benefit-it/) - Explain what an Ad Server do and how it can benefit your business.
 - [What is an Ad Server](https://adzerk.com/blog/what-is-an-ad-server/) - Explain what an Ad Server is, Publisher vs Advertiser, why have one ad server.
 
 ## Best practices
@@ -100,7 +100,7 @@ Contributions to this list are always welcome! Take a look at [contribution guid
 
 ## Contact
 
-If you have any question or suggestion about this list, do not hesitate to contact me on Twitter [@_seunoura](https://twitter.com/_seunoura) or [open an issue](https://github.com/cenoura/awesome-ads/issues/new).
+If you have any questions or suggestion about this list, do not hesitate to contact me on Twitter [@_seunoura](https://twitter.com/_seunoura) or [open an issue](https://github.com/cenoura/awesome-ads/issues/new).
 
 ## License
 
