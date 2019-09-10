@@ -1,46 +1,30 @@
 # Awesome Advertising
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome advertising content, resources and libraries.
+A curated list of advertising and programmatic related content and resources to learn about it and libraries to implement it on your website.
 
 **Disclaimer:** I know people really dislike and, sometimes, get angry about ads on sites and apps. As they are widely used by individuals and companies to monetize, the main goal of this list is to share knowledge about how to implement it correctly and in an optimized way.
 
----
-
-- [Awesome Advertising](#awesome-advertising)
-  - [Concepts and Fundamentals](#concepts-and-fundamentals)
-  - [Best practices](#best-practices)
-  - [AdOps](#adops)
-  - [Acronyms and Abbreviations](#acronyms-and-abbreviations)
-  - [Ad Managers / Ad Servers](#ad-managers--ad-servers)
-  - [Google Ad Manager](#google-ad-manager)
-      - [React Libraries](#react-libraries)
-  - [Facebook / Instagram](#facebook--instagram)
-  - [Advertising](#advertising)
-  - [Programmatic](#programmatic)
-  - [Header Bidding](#header-bidding)
-  - [Prebid](#prebid)
-      - [React Libraries](#react-libraries-1)
+## Contents
+- [Acronyms and Abbreviations](#acronyms-and-abbreviations)
+- [Concepts and Fundamentals](#concepts-and-fundamentals)
+- [Best practices](#best-practices)
+- [Ad Managers / Ad Servers / Platforms](#ad-managers--ad-servers--platforms)
+- [Google Ad Manager](#google-ad-manager)
+    - [Libraries / Tools](#libraries--tools)
+- [Facebook / Instagram](#facebook--instagram)
+- [Programmatic](#programmatic)
+- [Header Bidding (HB)](#header-bidding-hb)
+- [Prebid](#prebid)
+    - [Libraries / Tools](#libraries--tools-1)
+- [Newsletters](#newsletters)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
----
-
-## Concepts and Fundamentals
-
-- [What is an Ad Server](https://adzerk.com/blog/what-is-an-ad-server/)
-
-## Best practices
-
-- [Coalition for Better Ads](https://www.betterads.org/)
-
-## AdOps
-
-[Contribute adding items to this section](#contributing)
-
 ## Acronyms and Abbreviations
 
+- AdOps: Advertising Operations
 - AdX: Ad Exchange
 - CPC: Cost Per Click
 - CPM: Cost Per Mille
@@ -50,58 +34,68 @@ A curated list of awesome advertising content, resources and libraries.
 - DMP: Data Management Platform
 - DSP: Demand Side Platform
 - eCPM: Effective Cost Per Mille
+- HB: Header Bidding
 - RTB: Real Time Bidding
 - SSP: Supply Side Platforms
 
-## Ad Managers / Ad Servers
+## Concepts and Fundamentals
 
-- [Adform](https://site.adform.com/)
-- [Adzerk](https://adzerk.com/)
-- [Google Ad Manager](https://admanager.google.com/)
-- [Smart AdServer](https://smartadserver.com/)
+- [What does an Ad Server do and how can you benefit from it?](https://www.thinkwithgoogle.com/intl/en-145/perspectives/local-articles/what-does-ad-server-do-and-how-can-you-benefit-it/) - Explain what an Ad Server do and how it can benefit your business.
+- [What is an Ad Server](https://adzerk.com/blog/what-is-an-ad-server/) - Explain what an Ad Server is, Publisher vs Advertiser, why have one ad server.
+
+## Best practices
+
+- [Coalition for Better Ads](https://www.betterads.org/) - A group of companies (Google, Facebook, etc) that published a research about how to improve the online consumer ad experience and defined some standards.
+
+## Ad Managers / Ad Servers / Platforms
+
+- [Adform](https://site.adform.com/) - Advertising platform.
+- [Adzerk](https://adzerk.com/) - Ad serving APIs to build and scale server-side ad platforms.
+- [Google Ad Manager (formerly DFP: DoubleClick for Publishers)](https://admanager.google.com/)
+- [Google Display & Video 360 (a.k.a DV360 / formerly DoubleClick Bid Manager)](https://displayvideo.google.com/) - Integrated tool that helps creative, data, and media teams work together to execute end-to-end campaigns.
+- [Smart AdServer](https://smartadserver.com/) - Ad Server
 
 ## Google Ad Manager
 
-- [About Ad Manager and Ad Exchange](https://support.google.com/admanager/topic/7505788)
-- [Common problems / Troubleshooting](https://support.google.com/admanager/topic/6048322)
-- [Google Ads Fundamentals](https://academy.exceedlms.com/student/path/3132-google-ads-fundamentals)
-- [Help center](https://support.google.com/admanager/)
-- [Release notes (2019)](https://support.google.com/admanager/answer/9197913)
-- [Setup](https://support.google.com/admanager/topic/7505789)
+- [About Ad Manager and Ad Exchange](https://support.google.com/admanager/topic/7505788) - Info about Google Ad Manager and Ad Exchange.
+- [Common problems / Troubleshooting](https://support.google.com/admanager/topic/6048322) - How to solve common problems / issues with Google Ad Manager.
+- [Google Ads Fundamentals](https://academy.exceedlms.com/student/path/3132-google-ads-fundamentals) - Google Academy videos about Ads Fundamentals (you should login to see the videos).
+- [Help center](https://support.google.com/admanager/) - Google Ad Manager Help Center
+- [Release notes (2019)](https://support.google.com/admanager/answer/9197913) - 2019 Google Ad Manager releases archive.
+- [Setup guide](https://support.google.com/admanager/topic/7505789) - Guide to set up Google Ad Manager.
 
-#### React Libraries
+#### Libraries / Tools
 
-- React DFP - [GitHub](https://github.com/jaanauati/react-dfp) | [Docs](http://react-dfp.ml/)
+- React DFP - [GitHub](https://github.com/jaanauati/react-dfp) | [Docs](http://react-dfp.ml/) - React library to implement Google Ad Manager on your website.
 
 ## Facebook / Instagram
 
-- [Facebook Blueprint](https://www.facebook.com/business/learn)
-
-## Advertising
-
-- [Reddit](https://www.reddit.com/r/advertising/)
+- [Facebook Blueprint](https://www.facebook.com/business/learn) - Online training for Advertising on Facebook and Instagram.
 
 ## Programmatic
 
-- [Google Ads Academy](https://academy.exceedlms.com/student/catalog/list?category_ids=682-programmatic)
-- [Reddit](https://www.reddit.com/r/programmatic/)
+- [Google Ads Academy: Programmatic](https://academy.exceedlms.com/student/catalog/list?category_ids=682-programmatic) - Google Academy videos about Programmatic (you should login to see the videos).
 
-## Header Bidding
-
-- [What is Header Bidding by Lotame](https://www.lotame.com/back-basics-header-bidding/)
-- [What is Header Bidding by Prebid](http://prebid.org/overview/intro.html#header-bidding)
+## Header Bidding (HB)
+- [Beginner's Guide to Header Bidding](https://adprofs.co/beginners-guide-to-header-bidding/) - Complete guide to understand HB, why it's important, how does it work.
+- [What is Header Bidding by Prebid](http://prebid.org/overview/intro.html#header-bidding) - Guide about HB from the most used library to implement it.
 
 ## Prebid
 
-- [Prebid](http://prebid.org/)
-- [Prebid for AdOps](http://prebid.org/adops/before-you-start.html)
-- [Prebid for Developers](http://prebid.org/developers.html)
-- [Smart Ad Server + Prebid.js](https://support.smartadserver.com/s/article/Holistic-Setup)
-- [Reddit](https://www.reddit.com/r/Prebid/)
+- [Prebid](http://prebid.org/) - Website of the most used library to implement HB.
+- [Prebid for AdOps](http://prebid.org/adops/before-you-start.html) - Prebid Guide to AdOps.
+- [Prebid for Developers](http://prebid.org/developers.html) - Prebid Guide to Developers.
+- [Google Ad Manager + Prebid.js](http://prebid.org/adops/setting-up-prebid-multi-format-in-dfp.html) - How to setup Prebid.js with Google Ad Manager.
+- [Smart Ad Server + Prebid.js](https://support.smartadserver.com/s/article/Holistic-Setup) - How to set up Prebid.js with Smart Ad Server.
 
-#### React Libraries
+#### Libraries / Tools
+- [Prebid + GAM setup tool](https://github.com/kmjennison/dfp-prebid-setup) - An automated line item generator for Prebid.js and Google Ad Manager.
+- React Prebid - [GitHub](https://github.com/technology-ebay-de/react-prebid) | [Docs](https://github.com/technology-ebay-de/react-prebid/wiki) - React library to implement Google Ad Manager on your website.
 
-- React Prebid - [GitHub](https://github.com/technology-ebay-de/react-prebid) | [Docs](https://github.com/technology-ebay-de/react-prebid/wiki)
+## Newsletters
+- [AdProfs](https://adprofs.co/this-week-in-ad-tech/) - This week in ad tech - one email per week, 5 min read.
+- [Business News from Facebook](https://www.facebook.com/business/m/updates-signup) - Latest updates, marketing trends and advertising tips from Facebook.
+- [Happy Friday by Simon J. Harris](https://simonjharris.substack.com) - Ad tech info curated by [@SimonJHarris](https://twitter.com/SimonJHarris)
 
 # Contributing
 
@@ -109,4 +103,4 @@ Contributions to this list are always welcome! Take a look at [contribution guid
 
 # Contact
 
-If you have any question or suggestion about this list, do not hesitate to contact me on Twitter [@\_seunoura](https://twitter.com/_seunoura) or [opening an issue](https://github.com/cenoura/awesome-ads/issues/new).
+If you have any question or suggestion about this list, do not hesitate to contact me on Twitter [@_seunoura](https://twitter.com/_seunoura) or [open an issue](https://github.com/cenoura/awesome-ads/issues/new).
