@@ -1,6 +1,4 @@
-# Awesome Advertising
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Advertising [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of advertising and programmatic related content and resources to learn about it and libraries to implement it on your website.
 
@@ -12,14 +10,13 @@ A curated list of advertising and programmatic related content and resources to 
 - [Best practices](#best-practices)
 - [Ad Managers / Ad Servers / Platforms](#ad-managers--ad-servers--platforms)
 - [Google Ad Manager](#google-ad-manager)
-    - [Libraries / Tools](#libraries--tools)
+- [GAM Libraries / Tools](#gam-libraries--tools)
 - [Facebook / Instagram](#facebook--instagram)
 - [Programmatic](#programmatic)
 - [Header Bidding (HB)](#header-bidding-hb)
 - [Prebid](#prebid)
-    - [Libraries / Tools](#libraries--tools-1)
+- [Prebid Libraries / Tools](#prebid-libraries--tools)
 - [Newsletters](#newsletters)
-- [Contributing](#contributing)
 - [Contact](#contact)
 
 ## Acronyms and Abbreviations
@@ -53,18 +50,18 @@ A curated list of advertising and programmatic related content and resources to 
 - [Adzerk](https://adzerk.com/) - Ad serving APIs to build and scale server-side ad platforms.
 - [Google Ad Manager (formerly DFP: DoubleClick for Publishers)](https://admanager.google.com/)
 - [Google Display & Video 360 (a.k.a DV360 / formerly DoubleClick Bid Manager)](https://displayvideo.google.com/) - Integrated tool that helps creative, data, and media teams work together to execute end-to-end campaigns.
-- [Smart AdServer](https://smartadserver.com/) - Ad Server
+- [Smart AdServer](https://smartadserver.com/) - Ad Server.
 
 ## Google Ad Manager
 
 - [About Ad Manager and Ad Exchange](https://support.google.com/admanager/topic/7505788) - Info about Google Ad Manager and Ad Exchange.
 - [Common problems / Troubleshooting](https://support.google.com/admanager/topic/6048322) - How to solve common problems / issues with Google Ad Manager.
 - [Google Ads Fundamentals](https://academy.exceedlms.com/student/path/3132-google-ads-fundamentals) - Google Academy videos about Ads Fundamentals (you should login to see the videos).
-- [Help center](https://support.google.com/admanager/) - Google Ad Manager Help Center
+- [Help center](https://support.google.com/admanager/) - Google Ad Manager Help Center.
 - [Release notes (2019)](https://support.google.com/admanager/answer/9197913) - 2019 Google Ad Manager releases archive.
 - [Setup guide](https://support.google.com/admanager/topic/7505789) - Guide to set up Google Ad Manager.
 
-#### Libraries / Tools
+## GAM Libraries / Tools
 
 - React DFP - [GitHub](https://github.com/jaanauati/react-dfp) | [Docs](http://react-dfp.ml/) - React library to implement Google Ad Manager on your website.
 
@@ -88,7 +85,7 @@ A curated list of advertising and programmatic related content and resources to 
 - [Google Ad Manager + Prebid.js](http://prebid.org/adops/setting-up-prebid-multi-format-in-dfp.html) - How to setup Prebid.js with Google Ad Manager.
 - [Smart Ad Server + Prebid.js](https://support.smartadserver.com/s/article/Holistic-Setup) - How to set up Prebid.js with Smart Ad Server.
 
-#### Libraries / Tools
+## Prebid Libraries / Tools
 - [Prebid + GAM setup tool](https://github.com/kmjennison/dfp-prebid-setup) - An automated line item generator for Prebid.js and Google Ad Manager.
 - React Prebid - [GitHub](https://github.com/technology-ebay-de/react-prebid) | [Docs](https://github.com/technology-ebay-de/react-prebid/wiki) - React library to implement Google Ad Manager on your website.
 
@@ -97,10 +94,14 @@ A curated list of advertising and programmatic related content and resources to 
 - [Business News from Facebook](https://www.facebook.com/business/m/updates-signup) - Latest updates, marketing trends and advertising tips from Facebook.
 - [Happy Friday by Simon J. Harris](https://simonjharris.substack.com) - Ad tech info curated by [@SimonJHarris](https://twitter.com/SimonJHarris)
 
-# Contributing
+## Contributing
 
 Contributions to this list are always welcome! Take a look at [contribution guidelines](https://github.com/cenoura/awesome-ads/blob/master/CONTRIBUTING.md) and feel free to open a PR adding/updating items.
 
-# Contact
+## Contact
 
 If you have any question or suggestion about this list, do not hesitate to contact me on Twitter [@_seunoura](https://twitter.com/_seunoura) or [open an issue](https://github.com/cenoura/awesome-ads/issues/new).
+
+## License
+
+This work is licensed under [GPL-3.0](https://github.com/cenoura/awesome-ads/blob/master/LICENSE).
