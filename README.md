@@ -104,4 +104,4 @@ If you have any questions or suggestion about this list, do not hesitate to cont
 
 ## License
 
-This work is licensed under [GPL-3.0](https://github.com/cenoura/awesome-ads/blob/master/LICENSE).
+This work is licensed under [Creative Commons Attribution 4.0 International](https://github.com/cenoura/awesome-ads/blob/master/LICENSE).
