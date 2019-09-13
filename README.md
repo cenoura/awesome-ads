@@ -7,7 +7,7 @@ A curated list of advertising and programmatic related content and resources to 
 ## Contents
 - [Acronyms and Abbreviations](#acronyms-and-abbreviations)
 - [Concepts and Fundamentals](#concepts-and-fundamentals)
-- [Best practices](#best-practices)
+- [Best Practices](#best-practices)
 - [Ad Managers / Ad Servers / Platforms](#ad-managers--ad-servers--platforms)
 - [Google Ad Manager](#google-ad-manager)
 - [GAM Libraries / Tools](#gam-libraries--tools)
@@ -40,7 +40,7 @@ A curated list of advertising and programmatic related content and resources to 
 - [What does an Ad Server does and how can you benefit from it?](https://www.thinkwithgoogle.com/intl/en-145/perspectives/local-articles/what-does-ad-server-do-and-how-can-you-benefit-it/) - Explain what an Ad Server do and how it can benefit your business.
 - [What is an Ad Server](https://adzerk.com/blog/what-is-an-ad-server/) - Explain what an Ad Server is, Publisher vs Advertiser, why have one ad server.
 
-## Best practices
+## Best Practices
 
 - [Coalition for Better Ads](https://www.betterads.org/) - A group of companies (Google, Facebook, etc) that published a research about how to improve the online consumer ad experience and defined some standards.
 
@@ -92,7 +92,7 @@ A curated list of advertising and programmatic related content and resources to 
 ## Newsletters
 - [AdProfs](https://adprofs.co/this-week-in-ad-tech/) - This week in ad tech - one email per week, 5 min read.
 - [Business News from Facebook](https://www.facebook.com/business/m/updates-signup) - Latest updates, marketing trends and advertising tips from Facebook.
-- [Happy Friday by Simon J. Harris](https://simonjharris.substack.com) - Ad tech info curated by [@SimonJHarris](https://twitter.com/SimonJHarris)
+- [Happy Friday by Simon J. Harris](https://simonjharris.substack.com) - Ad tech info curated by [@SimonJHarris](https://twitter.com/SimonJHarris).
 
 ## Contributing
 
