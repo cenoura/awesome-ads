@@ -1,6 +1,6 @@
 # Awesome Advertising [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of advertising and programmatic related content and resources to learn about it and libraries to implement it on your website.
+**A curated list of advertising and programmatic media content and resources.**
 
 **Disclaimer:** I know people really dislike and, sometimes, get angry about ads on sites and apps. As they are widely used by individuals and companies to monetize, the main goal of this list is to share knowledge about how to implement it correctly and in an optimized way.
 
