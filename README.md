@@ -5,6 +5,7 @@
 **Disclaimer:** I know people really dislike and, sometimes, get angry about ads on sites and apps. As they are widely used by individuals and companies to monetize, the main goal of this list is to share knowledge about how to implement it correctly and in an optimized way.
 
 ## Contents
+
 - [Acronyms and Abbreviations](#acronyms-and-abbreviations)
 - [Concepts and Fundamentals](#concepts-and-fundamentals)
 - [Best Practices](#best-practices)
@@ -56,7 +57,7 @@
 
 - [About Ad Manager and Ad Exchange](https://support.google.com/admanager/topic/7505788) - Info about Google Ad Manager and Ad Exchange.
 - [Common problems / Troubleshooting](https://support.google.com/admanager/topic/6048322) - How to solve common problems / issues with Google Ad Manager.
-- [Google Ads Fundamentals](https://academy.exceedlms.com/student/path/3132-google-ads-fundamentals) - Google Academy videos about Ads Fundamentals (you should login to see the videos).
+- [Google Ad Manager Fundamentals](https://skillshop.exceedlms.com/student/path/17117-drive-advertising-revenue-with-google-ad-manager) - Google Academy videos about Ad Manager (you should login to see the videos).
 - [Help center](https://support.google.com/admanager/) - Google Ad Manager Help Center.
 - [Release notes (2019)](https://support.google.com/admanager/answer/9197913) - 2019 Google Ad Manager releases archive.
 - [Setup guide](https://support.google.com/admanager/topic/7505789) - Guide to set up Google Ad Manager.
@@ -74,6 +75,7 @@
 - [Google Ads Academy: Programmatic](https://academy.exceedlms.com/student/catalog/list?category_ids=682-programmatic) - Google Academy videos about Programmatic (you should login to see the videos).
 
 ## Header Bidding (HB)
+
 - [Beginner's Guide to Header Bidding](https://adprofs.co/beginners-guide-to-header-bidding/) - Complete guide to understand HB, why it's important, how does it work.
 - [What is Header Bidding by Prebid](http://prebid.org/overview/intro.html#header-bidding) - Guide about HB from the most used library to implement it.
 
@@ -86,10 +88,12 @@
 - [Smart Ad Server + Prebid.js](https://support.smartadserver.com/s/article/Holistic-Setup) - How to set up Prebid.js with Smart Ad Server.
 
 ## Prebid Libraries / Tools
+
 - [Prebid + GAM setup tool](https://github.com/kmjennison/dfp-prebid-setup) - An automated line item generator for Prebid.js and Google Ad Manager.
 - React Prebid - [GitHub](https://github.com/technology-ebay-de/react-prebid) | [Docs](https://github.com/technology-ebay-de/react-prebid/wiki) - React library to implement Google Ad Manager on your website.
 
 ## Newsletters
+
 - [AdProfs](https://adprofs.co/this-week-in-ad-tech/) - This week in ad tech - one email per week, 5 min read.
 - [Business News from Facebook](https://www.facebook.com/business/m/updates-signup) - Latest updates, marketing trends and advertising tips from Facebook.
 - [Happy Friday by Simon J. Harris](https://simonjharris.substack.com) - Ad tech info curated by [@SimonJHarris](https://twitter.com/SimonJHarris).
@@ -100,7 +104,7 @@ Contributions to this list are always welcome! Take a look at [contribution guid
 
 ## Contact
 
-If you have any questions or suggestion about this list, do not hesitate to contact me on Twitter [@_seunoura](https://twitter.com/_seunoura) or [open an issue](https://github.com/cenoura/awesome-ads/issues/new).
+If you have any questions or suggestion about this list, do not hesitate to contact me on Twitter [@\_seunoura](https://twitter.com/_seunoura) or [open an issue](https://github.com/cenoura/awesome-ads/issues/new).
 
 ## License
 
