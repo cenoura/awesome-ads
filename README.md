@@ -18,6 +18,7 @@
 - [Prebid](#prebid)
 - [Prebid Libraries / Tools](#prebid-libraries--tools)
 - [Newsletters](#newsletters)
+- [Creative Advertising](#creative-advertising)
 - [Contact](#contact)
 
 ## Acronyms and Abbreviations
@@ -97,6 +98,10 @@
 - [AdProfs](https://adprofs.co/this-week-in-ad-tech/) - This week in ad tech - one email per week, 5 min read.
 - [Business News from Facebook](https://www.facebook.com/business/m/updates-signup) - Latest updates, marketing trends and advertising tips from Facebook.
 - [Happy Friday by Simon J. Harris](https://simonjharris.substack.com) - Ad tech info curated by [@SimonJHarris](https://twitter.com/SimonJHarris).
+
+## Creative Advertising
+
+- [24HourHomepage](https://24HourHomepage.com) - A free creative advertising project where every second of the day is user-submitted content.
 
 ## Contributing
 
