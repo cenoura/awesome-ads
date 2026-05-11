@@ -14,6 +14,7 @@
 - [GAM Libraries / Tools](#gam-libraries--tools)
 - [Facebook / Instagram](#facebook--instagram)
 - [Programmatic](#programmatic)
+- [Validation / Debugging Tools](#validation--debugging-tools)
 - [Header Bidding (HB)](#header-bidding-hb)
 - [Prebid](#prebid)
 - [Prebid Libraries / Tools](#prebid-libraries--tools)
@@ -73,6 +74,10 @@
 ## Programmatic
 
 - [Google Ads Academy: Programmatic](https://academy.exceedlms.com/student/catalog/list?category_ids=682-programmatic) - Google Academy videos about Programmatic (you should login to see the videos).
+
+## Validation / Debugging Tools
+
+- [vastlint](https://github.com/aleksUIX/vastlint) - Validator and linter for VAST video ad tags, with checks for VAST 2.0-4.3 compliance and deterministic auto-fixes.
 
 ## Header Bidding (HB)
 
