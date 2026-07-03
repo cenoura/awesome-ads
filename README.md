@@ -97,6 +97,7 @@
 - [AdProfs](https://adprofs.co/this-week-in-ad-tech/) - This week in ad tech - one email per week, 5 min read.
 - [Business News from Facebook](https://www.facebook.com/business/m/updates-signup) - Latest updates, marketing trends and advertising tips from Facebook.
 - [Happy Friday by Simon J. Harris](https://simonjharris.substack.com) - Ad tech info curated by [@SimonJHarris](https://twitter.com/SimonJHarris).
+- [Mautic](https://www.mautic.org) - Open-source marketing automation platform with segmentation and campaign tracking.
 
 ## Contributing
 
