@@ -48,6 +48,7 @@
 ## Ad Managers / Ad Servers / Platforms
 
 - [Adform](https://site.adform.com/) - Advertising platform.
+- [Adsun](https://adsun.io/) - Advertising platform for Telegram Mini Apps, bot messages, and channels.
 - [Adzerk](https://adzerk.com/) - Ad serving APIs to build and scale server-side ad platforms.
 - [Google Ad Manager (formerly DFP: DoubleClick for Publishers)](https://admanager.google.com/)
 - [Google Display & Video 360 (a.k.a DV360 / formerly DoubleClick Bid Manager)](https://displayvideo.google.com/) - Integrated tool that helps creative, data, and media teams work together to execute end-to-end campaigns.
