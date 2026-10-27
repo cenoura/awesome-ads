@@ -73,6 +73,7 @@
 ## Programmatic
 
 - [Google Ads Academy: Programmatic](https://academy.exceedlms.com/student/catalog/list?category_ids=682-programmatic) - Google Academy videos about Programmatic (you should login to see the videos).
+- [The Complete Guide to DV360 (in Russian)](https://aksanov.digital/books/dv360) - Free book on Display & Video 360 in Russian: account structure, targeting, deals, measurement. PDF, CC BY-ND 4.0.
 
 ## Header Bidding (HB)
 
