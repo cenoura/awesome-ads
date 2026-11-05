@@ -9,6 +9,7 @@
 - [Acronyms and Abbreviations](#acronyms-and-abbreviations)
 - [Concepts and Fundamentals](#concepts-and-fundamentals)
 - [Best Practices](#best-practices)
+- [Advertising Calculators](#advertising-calculators)
 - [Ad Managers / Ad Servers / Platforms](#ad-managers--ad-servers--platforms)
 - [Google Ad Manager](#google-ad-manager)
 - [GAM Libraries / Tools](#gam-libraries--tools)
@@ -44,6 +45,10 @@
 ## Best Practices
 
 - [Coalition for Better Ads](https://www.betterads.org/) - A group of companies (Google, Facebook, etc) that publish research about how to improve the online consumer ad experience and defined some standards.
+
+## Advertising Calculators
+
+- [Telegram Sponsorship CPM Calculator](https://thinkpad2050.github.io/telegram-sponsorship-cpm-calculator/) - Compare a Telegram channel's quoted sponsorship price with its median views and calculate the implied CPM.
 
 ## Ad Managers / Ad Servers / Platforms
 
