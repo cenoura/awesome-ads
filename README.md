@@ -72,7 +72,10 @@
 
 ## Programmatic
 
+- [ads.txt & sellers.json Checker](https://adopsbox.com/ads-txt-checker/) - Free tool that validates ads.txt and app-ads.txt files and checks every line against the ad system's sellers.json.
 - [Google Ads Academy: Programmatic](https://academy.exceedlms.com/student/catalog/list?category_ids=682-programmatic) - Google Academy videos about Programmatic (you should login to see the videos).
+- [OpenRTB Bid Request Validator](https://adopsbox.com/ortb-validator/) - Free in-browser validator for OpenRTB 2.5 and 2.6 bid requests.
+- [VAST Tag Inspector](https://adopsbox.com/vast-inspector/) - Free tool that follows VAST wrapper chains, flags errors and tests whether the media files play.
 
 ## Header Bidding (HB)
 
